@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace RedisProtoBuf.Tests
 {
-    public class RedisCacheSet
+    public class RedisCache
     {
         string redisProtoBufKey;
         string redisJsonKey;

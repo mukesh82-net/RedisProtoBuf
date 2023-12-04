@@ -1,4 +1,4 @@
 ﻿using BenchmarkDotNet.Running;
 using RedisProtoBuf.Tests;
 
-var summary = BenchmarkRunner.Run<RedisCacheSet>();
+var summary = BenchmarkRunner.Run<RedisCache>();
